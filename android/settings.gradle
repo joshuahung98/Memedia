@@ -1,0 +1,3 @@
+rootProject.name = 'Memedia'
+
+include ':app'
